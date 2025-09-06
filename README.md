@@ -1,7 +1,7 @@
 🚀 Passionate about software development, open source, and building impactful solutions.
-💻 I enjoy working with [your favorite languages/technologies, e.g., Python, JavaScript, React, etc.]
-🌱 Currently learning [what you’re learning, e.g., cloud computing, machine learning, etc.]
+💻 I enjoy working in developing front-end application , websites with javascript,css as well hands-on work in machine learning. 
+🌱 Currently learning MERN stack for full stack development .
 🔗 I love collaborating on innovative projects and sharing knowledge with the community.
-📫 Reach me at: [your email or social media]
+📫 Reach me at: nd034226@gmail.com
 
 Let's connect and create something amazing together!
